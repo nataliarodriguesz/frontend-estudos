@@ -1,6 +1,6 @@
 # Projeto Android
 
-Projeto desenvolvido durante o módulo 2 do curso de HTML e CSS, com foco em semântica, responsividade e boas práticas de estilização.
+Projeto desenvolvido durante o módulo 2 do curso de HTML e CSS do Curso em Vídeo, com foco em semântica, responsividade e boas práticas de estilização.
 
 ## ✨ Sobre o projeto
 
