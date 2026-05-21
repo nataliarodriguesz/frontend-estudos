@@ -66,6 +66,7 @@ Cada projeto possui seu próprio README com:
 | Projeto Android | [Visualizar](https://nataliarodriguesz.github.io/frontend-estudos/projetos/projeto-android/) |
 | Projeto Cordel | [Visualizar](https://nataliarodriguesz.github.io/frontend-estudos/projetos/projeto-cordel/) |
 | Projeto Login | [Visualizar](https://nataliarodriguesz.github.io/frontend-estudos/projetos/projeto-login/) |
+| Projeto Social | [Visualizar](https://nataliarodriguesz.github.io/frontend-estudos/projetos/projeto-social/) |
 
 ---
 
